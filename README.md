@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexanderKarpovich
-- 👀 I’m interested in programming, software developing via C# and .NET.
+- 👀 I’m interested in programming, software developing via C# and .NET
 - 🌱 I’m currently learning asp.net
 - 💞️ I’m looking to collaborate on asp.net projects
 - 📫 How to reach me - alexander.lomonosov.03@gmail.com or t.me/sashadisappeared
