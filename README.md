@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexanderKarpovich
 - 👀 I’m interested in programming, software developing via C# and .NET
 - 🌱 I’m currently learning microservices
-- 💞️ I’m looking to collaborate on projects with microservice and DDD architecture.
 - 📫 How to reach me - alexander.lomonosov.03@gmail.com or t.me/sashadisappeared
 
 <!---
