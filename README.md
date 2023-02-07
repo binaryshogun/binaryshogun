@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexanderKarpovich
 - 👀 I’m interested in programming, software developing via C# and .NET
 - 🌱 I’m currently learning microservices
-- 📫 How to reach me - alexander.lomonosov.03@gmail.com or t.me/sashadisappeared
+- 📫 How to reach me - alexander.lomonosov.03@gmail.com or https://t.me/sashadisappeared
 
 <!---
 AlexanderKarpovich/AlexanderKarpovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
