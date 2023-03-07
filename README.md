@@ -20,6 +20,7 @@
 <a href="https://twitter.com/bottleoffeelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bottleoffeelin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexanderkarpovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderkarpovich" height="30" width="40" /></a>
 <a href="https://instagram.com/sashadisappeared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sashadisappeared" height="30" width="40" /></a>
+<a href="https://t.me/sashadisappeared" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/284/690/png-transparent-telegram-logo-computer-icons-telegram-logo-blue-angle-triangle-thumbnail.png" alt="sashadisappeared" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
