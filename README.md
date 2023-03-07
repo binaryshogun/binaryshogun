@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my graduate work - [Heracles Store](https://github.com/AlexanderKarpovich/HeraclesStore)
 
-- 🌱 I’m currently learning **microservices**
+- 🌱 I’m currently learning **microservices** & **DDD**
 
 - 👨‍💻 Images of my projects are available at [Docker Hub](https://hub.docker.com/u/alexanderkarpovich)
 
