@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bottleoffeelin" target="blank"><img src="https://img.shields.io/twitter/follow/bottleoffeelin?logo=twitter&style=for-the-badge" alt="bottleoffeelin" /></a> </p>
 
-- 🔭 I’m currently working on [microservices system](https://github.com/AlexanderKarpovich/Microservice-System)
+- 🔭 I’m currently working on my graduate work - [Heracles Store](https://github.com/AlexanderKarpovich/HeraclesStore)
 
 - 🌱 I’m currently learning **microservices**
 
