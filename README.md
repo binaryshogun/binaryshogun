@@ -32,7 +32,7 @@
   <li>
     <p>Contributions</p>
     <p>
-      <img align="center" src="https://streak-stats.demolab.com?user=AlexanderKarpovich&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" 
+      <img align="center" src="https://streak-stats.demolab.com?user=AlexanderKarpovich&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&" 
            alt="alexanderkarpovich" />
     </p>
   </li>
