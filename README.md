@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Karpovich</h1>
-<h3 align="center">A cool fullstack developer</h3>
+<h3 align="center">A cool Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/bottleoffeelin" target="blank"><img src="https://img.shields.io/twitter/follow/bottleoffeelin?logo=twitter&style=for-the-badge" alt="bottleoffeelin" /></a> </p>
 
