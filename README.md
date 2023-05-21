@@ -9,7 +9,7 @@
 
 - 👨‍💻 Images of my projects are available at [Docker Hub](https://hub.docker.com/u/alexanderkarpovich)
 
-- 💬 Ask me about **C#, .NET, JavaScript, TypeScript, Angular, React and anything you want to!**
+- 💬 Ask me about **C#, .NET, JavaScript, TypeScript, Angular, React and Software Design!**
 
 - 📫 How to reach me **alexander.lomonosov.03@gmail.com**
 
