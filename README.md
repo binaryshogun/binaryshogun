@@ -5,7 +5,7 @@
 
 - 🔭 I’m not currently working on any projects
 
-- 🌱 I’m currently learning **CI/CD + GitHub and GitHub Actions**
+- 🌱 I’m currently learning **GitHub Actions**
 
 - 👨‍💻 Images of my projects are available at [Docker Hub](https://hub.docker.com/u/alexanderkarpovich)
 
