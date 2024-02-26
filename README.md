@@ -1,19 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alexander Karpovich</h1>
-<h3 align="center">A Back End Software Engineer</h3>
+<h1 align="center">Hi, I am WunderSasha</h1>
+
+<h3 align="center">A Back End Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/bottleoffeelin" target="blank"><img src="https://img.shields.io/twitter/follow/bottleoffeelin?logo=twitter&style=for-the-badge" alt="bottleoffeelin" /></a> </p>
-
-- 🔭 I’m not currently working on any projects
-
-- 🌱 I’m currently learning **GitHub Actions**
-
-- 👨‍💻 Images of my projects are available at [Docker Hub](https://hub.docker.com/u/alexanderkarpovich)
-
-- 💬 Ask me about **Golang, C#, .NET, Software Design and Patterns!**
-
-- 📫 How to reach me **alexander.lomonosov.03@gmail.com**
-
-- ⚡ Fun fact **I got great love for cats and software development!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
