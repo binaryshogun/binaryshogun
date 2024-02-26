@@ -18,15 +18,15 @@
   <li>
     <p>Contributions</p>
     <p>
-      <img align="center" src="https://streak-stats.demolab.com?user=AlexanderKarpovich&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&" 
-           alt="alexanderkarpovich" />
+      <img align="center" src="https://streak-stats.demolab.com?user=wundersasha&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&" 
+           alt="wundersasha" />
     </p>
   </li>
   <li>
     <p>My fav languages</p>
     <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexanderkarpovich&show_icons=true&locale=en&layout=compact" 
-           alt="alexanderkarpovich" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wundersasha&show_icons=true&locale=en&layout=compact" 
+           alt="wundersasha" />
     </p>
 </ul>
 
