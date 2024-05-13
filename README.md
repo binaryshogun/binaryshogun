@@ -18,14 +18,14 @@
   <li>
     <p>Contributions</p>
     <p>
-      <img align="center" src="https://streak-stats.demolab.com?user=wundersasha&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&" 
-           alt="wundersasha" />
+      <img align="center" src="https://streak-stats.demolab.com?user=binaryshogun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&" 
+           alt="binaryshogun" />
     </p>
   </li>
   <li>
     <p>My fav languages</p>
     <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wundersasha&show_icons=true&locale=en&layout=compact" 
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binaryshogun&show_icons=true&locale=en&layout=compact" 
            alt="wundersasha" />
     </p>
 </ul>
